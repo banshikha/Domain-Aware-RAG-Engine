@@ -1,0 +1,84 @@
+# Environment variables
+.env
+.env.*
+*.env
+.envrc
+
+# Node / Next
+node_modules/
+.next/
+out/
+dist/
+build/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.yarn/
+.pnp.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.sqlite3
+__pypackages__/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+ml-service/venv/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.cache/
+.python-version
+.ipynb_checkpoints/
+
+# ML models
+models/
+checkpoints/
+weights/
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+.cache/huggingface/
+.huggingface/
+
+# Local databases/storage
+qdrant_storage/
+qdrant_data/
+dump.rdb
+*.db
+
+# Uploads/temp data
+uploads/
+temp/
+tmp/
+rag_uploads/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
