@@ -591,7 +591,7 @@ REDIS_URL=
 
 GitHub: https://github.com/banshikha
 
-LinkedIn: https://www.linkedin.com/in/gaurav-singh-iitg/
+LinkedIn:www.linkedin.com/in/banshikha-kumari-970a6b303
 
 ---
 
