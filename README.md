@@ -587,9 +587,9 @@ REDIS_URL=
 
 # Author
 
-**Gaurav Singh**
+**Banshikha kumari**
 
-GitHub: https://github.com/gauravkaushik3106
+GitHub: https://github.com/banshikha
 
 LinkedIn: https://www.linkedin.com/in/gaurav-singh-iitg/
 
